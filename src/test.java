@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class test {
   
   public static void main(String[] args) {
+    System.out.println("Hello world");
     Scanner input = new Scanner(System.in);
     int[] array1 = new int[10];
     System.out.println("Please enter " + array1.length + " numbers to have them sorted: ");
